@@ -50,3 +50,34 @@ MoodMatePlus/
 ├── mood_trend.ipynb       # Jupyter notebook for plotting
 ├── streamlit_app.py       # Final Streamlit web app
 └── README.md              # You're here!
+
+## ✅ Development Goals Checklist
+
+### 🗓️ Core Milestones
+
+- [ ] Week 1: Setup Python environment and build basic CLI greeter
+- [ ] Week 2: Create user profile system and save to `profile.json`
+- [ ] Week 3: Implement mood detection with TextBlob in Jupyter
+- [ ] Week 4: Develop suggestion engine based on mood, time, and interests
+- [ ] Week 5: Combine modules into fully working CLI app
+- [ ] Week 6: Add logging system and plot mood trends with `matplotlib`
+- [ ] Week 7: Convert CLI to basic Streamlit app with user inputs
+- [ ] Week 8: Finalize UI, prepare demo, and pitch project
+
+### 🔧 Feature Completion
+
+- [ ] User profile creation (name + interests)
+- [ ] Journal entry input and mood detection
+- [ ] Context-aware activity recommendations
+- [ ] Mood log storage (`log.json`)
+- [ ] Mood history viewer
+- [ ] Mood trend chart
+- [ ] Streamlit UI for mood input and suggestions
+- [ ] Streamlit dashboard for mood history
+
+### 🌟 Optional Extensions
+
+- [ ] Integrate GPT for dynamic suggestions
+- [ ] Add GIF/image support in Streamlit
+- [ ] Add voice input support
+- [ ] Support multiple users
