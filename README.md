@@ -38,7 +38,7 @@
 
 ### 🗓️ Core Milestones
 
-- [ ] Week 1: Setup Python environment and build basic CLI greeter
+- [x] Week 1: Setup Python environment and build basic CLI greeter
 - [ ] Week 2: Create user profile system and save to `profile.json`
 - [ ] Week 3: Implement mood detection with TextBlob in Jupyter
 - [ ] Week 4: Develop suggestion engine based on mood, time, and interests
