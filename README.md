@@ -34,23 +34,6 @@
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-MoodMatePlus/
-│
-├── profile.py             # Create/load user profile
-├── mood.py                # Mood detection logic
-├── suggestions.py         # Activity recommendation engine
-├── moodmate.py            # CLI main app
-├── logger.py              # Save mood entries to log.json
-├── log.json               # Mood history log
-├── profile.json           # User profile storage
-├── suggestions.json       # Static suggestion dataset
-├── mood_trend.ipynb       # Jupyter notebook for plotting
-├── streamlit_app.py       # Final Streamlit web app
-└── README.md              # You're here!
-
 ## ✅ Development Goals Checklist
 
 ### 🗓️ Core Milestones
@@ -81,3 +64,21 @@ MoodMatePlus/
 - [ ] Add GIF/image support in Streamlit
 - [ ] Add voice input support
 - [ ] Support multiple users
+
+## 📂 Folder Structure
+
+```bash
+MoodMatePlus/
+│
+├── profile.py             # Create/load user profile
+├── mood.py                # Mood detection logic
+├── suggestions.py         # Activity recommendation engine
+├── moodmate.py            # CLI main app
+├── logger.py              # Save mood entries to log.json
+├── log.json               # Mood history log
+├── profile.json           # User profile storage
+├── suggestions.json       # Static suggestion dataset
+├── mood_trend.ipynb       # Jupyter notebook for plotting
+├── streamlit_app.py       # Final Streamlit web app
+└── README.md              # You're here!
+
