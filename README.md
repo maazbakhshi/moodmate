@@ -2,7 +2,7 @@
 
 **MoodMate+** is a Python-based application that acts as your intelligent lifestyle buddy. It analyzes your mood based on daily journal entries and recommends personalized activities based on your **feelings**, **interests**, and **time of day**. The project starts as a Command-Line Interface (CLI) app and evolves into a full **Streamlit-based GUI**.
 
-> Developed by students in an 8-week summer bootcamp to learn Python, AI basics, and software development lifecycle.
+> Developed by Maaz Bakhshi in an 8-week summer bootcamp to learn Python, AI basics, and software development lifecycle.
 
 ---
 
