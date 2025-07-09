@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2025-06-29 14:37",
+        "entry": "I'm feeling happy today.",
+        "mood": "happy"
+    },
+    {
+        "timestamp": "2025-06-29 15:40",
+        "entry": "im feeling sad today",
+        "mood": "sad"
+    },
+    {
+        "timestamp": "2025-06-29 15:41",
+        "entry": "im feeling sad",
+        "mood": "sad"
+    },
+    {
+        "timestamp": "2025-06-30 16:03",
+        "entry": "Im feeling ecstatic.",
+        "mood": "neutral"
+    },
+    {
+        "timestamp": "2025-06-30 16:04",
+        "entry": "I feel awesome today.",
+        "mood": "happy"
+    },
+    {
+        "timestamp": "2025-06-30 16:04",
+        "entry": "This is the worst day ever",
+        "mood": "sad"
+    },
+    {
+        "timestamp": "2025-06-30 16:04",
+        "entry": "This is the best day of my life",
+        "mood": "happy"
+    },
+    {
+        "timestamp": "2025-06-30 16:04",
+        "entry": "I wanna kill someone",
+        "mood": "neutral"
+    },
+    {
+        "timestamp": "2025-07-01 21:39",
+        "entry": "Im feeling happy today.\n",
+        "mood": "happy"
+    },
+    {
+        "timestamp": "2025-07-01 21:53",
+        "entry": "Im feeling happy\n",
+        "mood": "happy"
+    },
+    {
+        "timestamp": "2025-07-01 21:55",
+        "entry": "I feel happy\n",
+        "mood": "happy"
+    },
+    {
+        "timestamp": "2025-07-09 13:39",
+        "entry": "Im feeling happy",
+        "mood": "happy \ud83d\ude0a"
+    }
+]
